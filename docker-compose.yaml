@@ -1,0 +1,30 @@
+version: "3.8"
+services:
+  web-server:
+    build:
+      dockerfile: geo.Dockerfile
+      context: .
+    restart: always
+    volumes:
+      - "./html/:/var/www/html/"
+    ports:
+      - "8090:80"
+  mysql-server:
+    image: mariadb
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root@geoffrey
+    volumes:
+      - mysql-data:/var/lib/mysql
+
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin:5.1.3
+    restart: always
+    environment:
+      PMA_HOST: mysql-server
+      # PMA_USER: root
+      # PMA_PASSWORD: root@geoffrey
+    ports:
+      - "8091:80"
+volumes:
+  mysql-data:
