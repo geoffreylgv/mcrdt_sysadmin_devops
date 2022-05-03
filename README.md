@@ -19,3 +19,17 @@ Mon Centre de Recherche et développement technologique (MCRDT)
   - Openstack
 
 - Solution implémentée ...
+
+## Docker deployement guide
+```bash
+$ cd mcrdt_sysadmin_devops
+$ docker-compose up -d # to start the docker and download images
+# check localhost:8090 for the web server, you will see a login page
+# check localhost:8091 for the phpmyadmin, login with
+                        # user root
+                        # pwd  root@geoffreylgv
+```
+
+```bash
+
+```

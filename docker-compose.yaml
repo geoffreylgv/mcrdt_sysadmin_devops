@@ -13,7 +13,7 @@ services:
     image: mariadb
     restart: always
     environment:
-      MYSQL_ROOT_PASSWORD: root@geoffrey
+      MYSQL_ROOT_PASSWORD: root@geoffreylgv
     volumes:
       - mysql-data:/var/lib/mysql
 
@@ -23,7 +23,7 @@ services:
     environment:
       PMA_HOST: mysql-server
       # PMA_USER: root
-      # PMA_PASSWORD: root@geoffrey
+      # PMA_PASSWORD: root@geoffreylgv
     ports:
       - "8091:80"
 volumes:
