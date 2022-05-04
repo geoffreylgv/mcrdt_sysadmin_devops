@@ -19,27 +19,4 @@ $ ip (PDF file) #– a command with more features that ifconfig (net-tools).
 $ iperf3 #– network bandwidth measurement tool. (above screenshot Stacklinux VPS)
 $ iproute2 #– collection of utilities for controlling TCP/IP.
 $ iptables #– take control of network traffic.
-$ mtr #– network diagnostic tool.
-$ net-tools #– utilities include: arp, hostname, ifconfig, netstat, rarp, route, plipconfig, slattach, mii-tool, iptunnel and ipmaddr.
-$ ncat #– improved re-implementation of the venerable netcat.
-$ netcat #– networking utility for reading/writing network connections.
-$ nethogs #– a small ‘net top’ tool.
-$ Netperf #– Network bandwidth Testing.
-$ netplan #– Netplan is a utility for easily configuring networking on a linux system.
-$ netsniff-ng #– Swiss army knife for daily Linux network plumbing.
-$ netwatch #– monitoring Network Connections.
-$ ngrep #– grep applied to the network layer.
-$ nload #– display network usage.
-$ nmap #– network discovery and security auditing.
-$ nmcli #– a command-line tool for controlling NetworkManager and reporting network status.
-$ nmtui #– provides a text interface to configure networking by controlling NetworkManager.
-$ nslookup #– query Internet name servers interactively.
-$ ping #– send icmp echo_request to network hosts.
-$ route #– show / manipulate the IP routing table.
-$ slurm #– network load monitor.
-$ snort #– Network Intrusion Detection and Prevention System.
-$ smokeping #–  keeps track of your network latency.
-$ socat #– establishes two bidirectional byte streams and transfers data between them.
-$ speedometer #– Measure and display the rate of data across a network.
-$ speedtest-cli #– test internet bandwidth using speedtest.net
 ```
