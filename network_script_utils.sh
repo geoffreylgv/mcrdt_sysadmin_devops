@@ -42,4 +42,15 @@ $ smokeping #–  keeps track of your network latency.
 $ socat #– establishes two bidirectional byte streams and transfers data between them.
 $ speedometer #– Measure and display the rate of data across a network.
 $ speedtest-cli #– test internet bandwidth using speedtest.net
+$ ssh #–  secure system administration and file transfers over insecure networks.
+$ tcpdump #– command-line packet analyzer.
+$ tcptrack #– Displays information about tcp connections on a network interface.
+$ telnet #– user interface to the TELNET protocol.
+$ tracepath #– very similar function to traceroute.
+$ traceroute #– print the route packets trace to network host.
+$ vnStat #– network traffic monitor.
+$ websocat #– Connection forwarder from/to web sockets to/from usual sockets, in style of socat.
+$ wget #–  retrieving files using HTTP, HTTPS, FTP and FTPS.
+$ Wireless Tools for Linux #– includes iwconfig, iwlist, iwspy, iwpriv and ifrename.
+$ Wireshark #– network protocol analyzer.
 ```
