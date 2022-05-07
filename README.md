@@ -30,6 +30,16 @@ $ docker-compose up -d # to start the docker and download images
                         # pwd  root@geoffreylgv
 ```
 
+## Navigation tree
 ```bash
-
+README.md
+backup_sql_db.sh
+dns.html
+docker-compose.yaml
+email_template.html
+geo.Dockerfile
+html
+   |-- index.php
+network_script_utils.sh
+vimrc.conf
 ```
