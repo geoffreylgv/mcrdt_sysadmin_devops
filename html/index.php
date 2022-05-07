@@ -1,3 +1,4 @@
+<?php
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -65,7 +66,6 @@
 		<!-- END CONTENT -->
 	</div>
     </div>  
-    <div class="text-center"><small> <a href="https://linkedin.com/in/geoffreylgv
-">Make and disign by geoffrey</small> with love <i class="fa fa-heart text-danger"></i></a></div> 
+    <div class="text-center"><small> <a href="https://linkedin.com/in/geoffreylgv">Make and disign by geoffrey</small> with love <i class="fa fa-heart text-danger"></i></a></div> 
 </body>
 </html>
