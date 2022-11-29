@@ -1,5 +1,5 @@
 
-##	RESOURCES FOR DevOPS	##
+##	Resources for DevOps	##
 ____________________________
 
 1. [DevOps Roadmap, By Roadmap.sh](https://roadmap.sh/devops)
