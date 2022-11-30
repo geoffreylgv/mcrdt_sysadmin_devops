@@ -9,3 +9,4 @@ ____________________________
 5.  [Disk Usage](https://hub.docker.com/extensions/docker/disk-usage-extension)
 6.  [vcluster](https://hub.docker.com/extensions/loftsh/vcluster-dd-extension)
 7.  [Microcks](https://hub.docker.com/extensions/microcks/microcks-docker-desktop-extension)
+7.  [OpenShift](https://hub.docker.com/extensions/redhatdeveloper/openshift-dd-ext)
