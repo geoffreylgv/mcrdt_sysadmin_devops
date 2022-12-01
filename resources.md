@@ -11,3 +11,4 @@ ____________________________
 7.  [Microcks](https://hub.docker.com/extensions/microcks/microcks-docker-desktop-extension)
 7.  [OpenShift](https://hub.docker.com/extensions/redhatdeveloper/openshift-dd-ext)
 7.  [Portainer](https://hub.docker.com/extensions/portainer/portainer-docker-extension)
+7.  [Snyk](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension)
