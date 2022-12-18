@@ -14,3 +14,4 @@ ____________________________
 10. [Snyk](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension)
 11. [Git Branching](https://learngitbranching.js.org/)
 12. [Getting Started With GitOps For Developers!](https://dev.to/pavanbelagatti/getting-started-with-gitops-for-developers-4aej)
+13. [Deploying a To-Do Application on Kubernetes](https://dev.to/pavanbelagatti/deploying-a-to-do-application-on-kubernetes-1c53)
