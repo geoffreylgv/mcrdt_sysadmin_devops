@@ -13,3 +13,4 @@ ____________________________
 9. [Portainer](https://hub.docker.com/extensions/portainer/portainer-docker-extension)
 10. [Snyk](https://hub.docker.com/r/snyk/snyk-docker-desktop-extension)
 11. [Git Branching](https://learngitbranching.js.org/)
+12. [Getting Started With GitOps For Developers!](https://dev.to/pavanbelagatti/getting-started-with-gitops-for-developers-4aej)
