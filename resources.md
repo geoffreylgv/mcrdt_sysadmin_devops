@@ -19,3 +19,4 @@ ____________________________
 15. [Docklight: a GUI that visualizes your Docker container metrics](https://medium.com/@alarouche/docklight-a-gui-that-visualizes-your-docker-container-metrics-8afc617b1df8)
 16. [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 17. [How To Become a DevOps Engineer In Six Months or Less, Part 1: Provision](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-2-configure-a2dfc11f6f7d)
+18. [What is DevOps? by Tech Educative](https://medium.com/@techeducative/what-is-devops-e0a77188c5e3)
