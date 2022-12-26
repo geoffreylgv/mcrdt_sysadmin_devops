@@ -27,3 +27,4 @@ ____________________________
 23. [The DevOps Handbook](https://www.amazon.com/dp/1942788002) 
 24. [Google SRE books](https://landing.google.com/sre/books) 
 25. [Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code) 
+26. [Codefresh Blog](https://codefresh.io/blog) 
