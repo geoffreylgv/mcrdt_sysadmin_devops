@@ -20,7 +20,7 @@ ____________________________
 16. [How To Become a DevOps Engineer In Six Months or Less](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-366097df7737)
 17. [How To Become a DevOps Engineer In Six Months or Less, Part 1: Provision](https://medium.com/@devfire/how-to-become-a-devops-engineer-in-six-months-or-less-part-2-configure-a2dfc11f6f7d)
 18. [What is DevOps? by Tech Educative](https://medium.com/@techeducative/what-is-devops-e0a77188c5e3)
-19. [A Cheatsheet For Git](https://dev.to/arafat4693/a-cheatsheet-for-git-37n5)
+19. [Cheatsheet For Git : Article](https://dev.to/arafat4693/a-cheatsheet-for-git-37n5)
 20. [DevOpsDays](https://devopsdays.org) 
 21. [Velocity](https://conferences.oreilly.com/velocity)
 22. [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290)
