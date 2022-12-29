@@ -28,3 +28,4 @@ ____________________________
 24. [Google SRE books](https://landing.google.com/sre/books) 
 25. [Essential Infrastructure as Code](https://www.manning.com/books/essential-infrastructure-as-code) 
 26. [Codefresh Blog](https://codefresh.io/blog) 
+27. [What DevOps teams need to know about API management](https://www.techtarget.com/searchitoperations/tip/What-DevOps-teams-need-to-know-about-API-management) 
