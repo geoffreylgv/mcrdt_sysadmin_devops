@@ -27,7 +27,7 @@ $ docker-compose up -d # to start the docker and download images
 # check localhost:8090 for the web server, you will see a login page
 # check localhost:8091 for the phpmyadmin, login with
                         # user root
-                        # pwd  root@geoffreylgv
+                        # pwd  find the it in the file and change it
 ```
 
 ## Navigation tree
