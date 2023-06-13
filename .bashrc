@@ -1,5 +1,4 @@
-#!/binbash
-# " Bash Settings
+# " Bash Settings alias for git basic commands
 # " -----------------------------------------------------------------------------
 
 set -o vi
