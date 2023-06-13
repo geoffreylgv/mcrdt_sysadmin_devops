@@ -1,3 +1,4 @@
+#!/bin/bash
 ```bash
 $ aria2 #– downloading just about everything. Torrents included.
 $ arpwatch #– Ethernet Activity Monitor.
