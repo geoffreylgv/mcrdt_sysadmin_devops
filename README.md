@@ -1,9 +1,9 @@
-# mcrdt_sysadmin_devops
+# Learning DevOps
 
-Mon Centre de Recherche et développement technologique (MCRDT)
+My day to day and pace time learning devops
 
-> Toutes les configurations que je réalise dans le domaine de l'administration système
-> ça pourra m'aider moi même et de plus faciliter la tâche au newbie de Linux de s'en sortir très facilement
+> [!IMPORTANT]
+> All the configurations I make in the field of system administration devops will be able to help me myself and also make it easier for any newbies to get by very easily.
 
 - Linux,
 - DNS,
@@ -21,6 +21,7 @@ Mon Centre de Recherche et développement technologique (MCRDT)
 - Solution implémentée ...
 
 ## Docker deployement guide
+
 ```bash
 $ cd mcrdt_sysadmin_devops
 $ docker-compose up -d # to start the docker and download images
@@ -31,6 +32,7 @@ $ docker-compose up -d # to start the docker and download images
 ```
 
 ## Navigation tree
+
 ```bash
 README.md
 backup_sql_db.sh   
